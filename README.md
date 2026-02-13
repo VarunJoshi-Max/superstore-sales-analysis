@@ -1,6 +1,6 @@
 # Superstore Sales & Profitability Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes the Superstore dataset to identify key business insights related to sales performance, profitability, discount impact, and seasonal trends.
 
@@ -8,7 +8,7 @@ The objective is to support data-driven decision-making through structured data 
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Microsoft Excel (Data Cleaning & EDA)
 - PostgreSQL (Data Validation & SQL Analysis)
@@ -17,7 +17,7 @@ The objective is to support data-driven decision-making through structured data 
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 1. Raw dataset cleaned in Excel
 2. Duplicates removed and data types standardized
@@ -28,7 +28,7 @@ The objective is to support data-driven decision-making through structured data 
 
 ---
 
-## 📊 Key KPIs
+## Key KPIs
 
 - Total Orders: 16.26K
 - Total Sales: $7.41M
@@ -36,23 +36,23 @@ The objective is to support data-driven decision-making through structured data 
 
 ---
 
-## 🔍 Key Business Insights
+## Key Business Insights
 
-### 1️⃣ Region Performance
+### Region Performance
 The West region generates the highest sales, indicating strong market demand.
 
-### 2️⃣ Category Profitability
+### Category Profitability
 Technology is the most profitable category, contributing the highest total profit.
 
-### 3️⃣ Discount Impact
+### Discount Impact
 Higher discount levels significantly reduce average profit per order. Orders without discount generate the highest profitability.
 
-### 4️⃣ Seasonal Trend
+### Seasonal Trend
 Sales peak during November and September, indicating strong seasonal demand.
 
 ---
 
-## 🎯 Recommendations
+## Recommendations
 
 - Optimize discount strategies to protect margins.
 - Focus on high-profit categories like Technology.
@@ -61,7 +61,7 @@ Sales peak during November and September, indicating strong seasonal demand.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 - superstore_cleaned.csv → Cleaned dataset used for SQL
 - superstore_eda.xlsx → Excel file with pivot analysis
@@ -71,11 +71,11 @@ Sales peak during November and September, indicating strong seasonal demand.
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This project demonstrates a complete Business Intelligence workflow from data cleaning to analytical insights and dashboard reporting.
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 <img width="989" height="713" alt="superstore_screenshot" src="https://github.com/user-attachments/assets/e6bf5c8c-7b15-4f26-a8e7-2df2d0c24063" />
 
