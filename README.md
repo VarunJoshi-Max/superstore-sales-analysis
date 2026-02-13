@@ -77,7 +77,8 @@ This project demonstrates a complete Business Intelligence workflow from data cl
 
 ## 📊 Dashboard Preview
 
-<img width="749" height="675" alt="Superstore_Dashboard" src="https://github.com/user-attachments/assets/98f5a282-dce2-4e82-aab6-433c22948636" />
+<img width="989" height="713" alt="superstore_screenshot" src="https://github.com/user-attachments/assets/e6bf5c8c-7b15-4f26-a8e7-2df2d0c24063" />
+
 
 
 
